@@ -1,4 +1,4 @@
-# waveriding
+# WaveRiding
  WaveRiding, consisting of a feature extractor and a wave-table audio-visual synthesiser. Both input and output devices have been developed in Max/MSP, implementing OSC, wavetable synthesis and Jitter for visuals. 
 
 The inputcode is a regression-based feature extractor called WaveRider. It extracts the gyroscope data from the iPhone (pitch, roll, yaw) and sends them to Wekinator fro Machine Learning traning. 
