@@ -65,3 +65,14 @@ d. Open the Wavetable-VisualSynth_output file. Ensure that you select your audio
 e. Adjust the Wekinator sliders to morph/explore audio-visual presets. When you are happy interact with your handset to train your model/s
 
 f. you can also sound design presets directly on the synthesiser. The parameters labelled in Wekinator will self- update. Also, you can store presets on the Wavetable-VisualSynth (left UI area) by shift+click to store and shift+alt+click to erase.
+
+
+Credits: 
+Timo Hoogland
+https://github.com/tmhglnd/wave-terrain-synthesis
+
+Federico Foderarno:
+https://www.federicofoderaro.com/
+
+ Rebecca Fiebrink
+http://www.wekinator.org/
